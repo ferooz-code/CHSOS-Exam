@@ -1,0 +1,134 @@
+[
+  {
+    "id": "CHSOS-D1-001",
+    "question": "A simulation scenario requires a patient to present with signs of a tension pneumothorax. Which physiological sign should the simulator demonstrate?",
+    "options": {
+      "A": "Bradycardia and hypertension",
+      "B": "Tracheal deviation and hypotension",
+      "C": "Increased capnography values",
+      "D": "Bilateral wheezing"
+    },
+    "correctAnswer": "B",
+    "rationale": "A tension pneumothorax typically presents with tracheal deviation (away from the affected side), hypotension, tachycardia, and absent breath sounds on the affected side.",
+    "whyIncorrect": {
+      "A": "Tension pneumothorax typically causes tachycardia and hypotension, not bradycardia and hypertension.",
+      "C": "Capnography would likely decrease due to poor perfusion and ventilation, not increase.",
+      "D": "Breath sounds would be decreased or absent unilaterally, not bilateral wheezing (which indicates asthma or COPD)."
+    },
+    "domain": "Concepts in Healthcare as Applied to Simulation",
+    "domainNumber": 1,
+    "difficulty": "moderate",
+    "cognitiveLevel": "application",
+    "whyThisMatters": "Understanding expected physiological responses is critical for programming a simulator to react accurately."
+  },
+  {
+    "id": "CHSOS-D2-001",
+    "question": "While operating a simulation, the facilitator reports that the wireless connection to the manikin is repeatedly dropping. Which of the following is the best initial troubleshooting step?",
+    "options": {
+      "A": "Replace the manikin's internal router.",
+      "B": "Change the Wi-Fi channel on the access point to reduce interference.",
+      "C": "Reinstall the simulation software on the control computer.",
+      "D": "Switch the manikin to a wired (Ethernet) connection if possible."
+    },
+    "correctAnswer": "D",
+    "rationale": "Switching to a wired connection provides an immediate, stable solution to continue the simulation without delay. Troubleshooting the wireless interference can follow.",
+    "whyIncorrect": {
+      "A": "Replacing internal hardware is a time-consuming last resort, not an initial step.",
+      "B": "While changing channels might reduce interference, it disrupts the network mid-simulation and doesn't guarantee a fix.",
+      "C": "Reinstalling software takes too long and likely is not the cause of a dropped wireless signal."
+    },
+    "domain": "Simulation Technology Operations",
+    "domainNumber": 2,
+    "difficulty": "application",
+    "cognitiveLevel": "application",
+    "whyThisMatters": "Minimizing downtime during a live simulation is crucial for the learning experience."
+  },
+  {
+    "id": "CHSOS-D2-002",
+    "question": "A unique address usually assigned by the manufacturer to a network adapter of a device is called a(n):",
+    "options": {
+      "A": "IP Address",
+      "B": "VLAN tag",
+      "C": "MAC Address",
+      "D": "Subnet Mask"
+    },
+    "correctAnswer": "C",
+    "rationale": "A Media Access Control (MAC) address is a unique identifier assigned to network interfaces for communications at the data link layer of a network segment.",
+    "whyIncorrect": {
+      "A": "An IP address is assigned by the network (DHCP or static), not hardcoded by the manufacturer.",
+      "B": "A VLAN tag is used to separate network traffic logically.",
+      "D": "A subnet mask determines which part of an IP address is the network and which is the host."
+    },
+    "domain": "Simulation Technology Operations",
+    "domainNumber": 2,
+    "difficulty": "easy",
+    "cognitiveLevel": "recall",
+    "whyThisMatters": "Knowing networking basics is essential for managing simulation IT infrastructure."
+  },
+  {
+    "id": "CHSOS-D3-001",
+    "question": "An employee from the public relations department approaches an operations specialist to obtain a simulation recording for marketing. What should the OS do?",
+    "options": {
+      "A": "Provide the video if all learners performed well.",
+      "B": "Provide the video but blur the faces of the learners.",
+      "C": "Refuse the request and report the employee to HR.",
+      "D": "Ask the employee to go through proper management channels according to facility policy."
+    },
+    "correctAnswer": "D",
+    "rationale": "Recordings involve confidentiality and consent. Proper management channels and policies must be followed to release any media.",
+    "whyIncorrect": {
+      "A": "Performance quality does not bypass consent and policy requirements.",
+      "B": "Blurring faces may still violate confidentiality policies and doesn't follow proper channels.",
+      "C": "Refusing is necessary, but reporting to HR is disproportionate before exploring policy."
+    },
+    "domain": "Healthcare Simulation Practices, Principles, and Procedures",
+    "domainNumber": 3,
+    "difficulty": "moderate",
+    "cognitiveLevel": "application",
+    "whyThisMatters": "Protecting learner confidentiality and psychological safety is paramount."
+  },
+  {
+    "id": "CHSOS-D4-001",
+    "question": "During a scenario design meeting, a simulation educator suggests adding contradictory lab work to test the learners' \"Preoccupation with failure.\" The educator is trying to incorporate which of the following?",
+    "options": {
+      "A": "High reliability principle",
+      "B": "Formative assessment",
+      "C": "Negative learning",
+      "D": "Psychological safety"
+    },
+    "correctAnswer": "A",
+    "rationale": "High Reliability Organizations (HROs) foster a 'preoccupation with failure,' meaning they actively look for small errors or contradictions that could signal a larger systemic issue.",
+    "whyIncorrect": {
+      "B": "Formative assessment is evaluating during learning, not specifically testing preoccupation with failure.",
+      "C": "Negative learning is learning incorrect behaviors, which is not the goal here.",
+      "D": "Psychological safety is the environment allowing learners to speak up, not the clinical principle itself."
+    },
+    "domain": "Professional Role: Behavior, Capabilities, and Leadership",
+    "domainNumber": 4,
+    "difficulty": "hard",
+    "cognitiveLevel": "analysis",
+    "whyThisMatters": "Simulation relies heavily on principles of team science and patient safety frameworks like HRO."
+  },
+  {
+    "id": "CHSOS-D5-001",
+    "question": "What is the very first step in Kern's Six Step Curriculum model?",
+    "options": {
+      "A": "Goals and Objectives",
+      "B": "Problem Identification and General Needs Assessment",
+      "C": "Educational Strategies",
+      "D": "Implementation"
+    },
+    "correctAnswer": "B",
+    "rationale": "Kern's Six Step approach begins with identifying the problem and conducting a general needs assessment.",
+    "whyIncorrect": {
+      "A": "Goals and Objectives is Step 3.",
+      "C": "Educational Strategies is Step 4.",
+      "D": "Implementation is Step 5."
+    },
+    "domain": "Concepts in Instructional Design as Applied to Simulation",
+    "domainNumber": 5,
+    "difficulty": "easy",
+    "cognitiveLevel": "recall",
+    "whyThisMatters": "Understanding instructional design models is foundational to constructing effective simulation activities."
+  }
+]

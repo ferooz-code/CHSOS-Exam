@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Concepts in Healthcare as Applied to Simulation",
+    "weight": 10,
+    "description": "Information regarding the foundational healthcare concepts related to simulation.",
+    "keyKsa": "Identifying presentation of medical conditions, medication practices, and healthcare professional roles."
+  },
+  {
+    "id": "2",
+    "name": "Simulation Technology Operations",
+    "weight": 35,
+    "description": "Operating networks, A/V, software, and simulation modalities securely and effectively.",
+    "keyKsa": "Networks, hardware, AV, VR/AR, problem solving, configuration, and maintenance."
+  },
+  {
+    "id": "3",
+    "name": "Healthcare Simulation Practices, Principles, and Procedures",
+    "weight": 25,
+    "description": "Standardized practices, training, resource utilization, safety, and schedules.",
+    "keyKsa": "Preparation, moulage, fidelity, debriefing, confidentiality, and risk management."
+  },
+  {
+    "id": "4",
+    "name": "Professional Role: Behavior, Capabilities, and Leadership",
+    "weight": 15,
+    "description": "Teamwork, communication, advocacy, ethics, and professional development.",
+    "keyKsa": "Interprofessional communication, teamwork, advocacy, and ethics."
+  },
+  {
+    "id": "5",
+    "name": "Concepts in Instructional Design as Applied to Simulation",
+    "weight": 15,
+    "description": "Objectives, cognitive levels, assessment methods, and instructional design principles.",
+    "keyKsa": "Learning objectives, Bloom's taxonomy, assessment, evaluation, feedback."
+  }
+]
